@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 2. Configure API Key
 
 1. Get your Google AI API key from [Google AI Studio](https://makersuite.google.com/app/apikey).
-2. Open `.env.sample` file and replace `your_google_api_key_here` with your actual API key:
+2. Rename `.env.sample` to `.env` file and replace `your_google_api_key_here` with your actual API key:
 
 ### 3. Add Resume Files
 
